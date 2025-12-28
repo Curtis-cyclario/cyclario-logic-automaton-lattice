@@ -1,0 +1,5 @@
+{
+  "name": "Cyclical Cellular Automaton",
+  "description": "A React-based simulator for a recurrent 3D cellular automaton defined by a mirrored weighted kernel. It visualizes the lattice evolution and plots key metrics like activity and energy over time.",
+  "requestFramePermissions": []
+}
